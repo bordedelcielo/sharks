@@ -1,0 +1,1 @@
+The components folder contains bite-sized pieces of reusable UI elements that may be shared by multiple top-level components from the views folder.

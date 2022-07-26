@@ -1,0 +1,1 @@
+The views folder contains top-level components.
