@@ -32,7 +32,7 @@ export default function Home() {
             <p>Current Pokemon ID: {pokemonId}</p>
             <div className="pokemon">
                 {
-                    (loadState === 'LOADING') ?
+                    (loadState === 'LOADED') ?
                     (
                         <>
                             <img src={ pokemon.sprites.front_default } alt="" />
